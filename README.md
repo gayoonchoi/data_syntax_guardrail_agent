@@ -5,4 +5,5 @@
 
 ## 도입 배경 및 필요성
 
-![Uploading image.png…]()
+<img width="1271" height="648" alt="image" src="https://github.com/user-attachments/assets/00f29d9f-ce14-448a-9ea9-52086dbb3794" />
+
